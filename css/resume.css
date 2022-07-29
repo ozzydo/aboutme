@@ -1,0 +1,185 @@
+.title {
+    font-size: 45px;
+    margin-left: -3px;
+}
+
+.job-role {
+    font-weight: 600;
+}
+
+p {
+    font-weight: 300;
+}
+
+.top-bottom-margin {
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+.zero-margin {
+    margin: 5px 0 0 0;
+}
+
+.list-title {
+    width: 25vw;
+    margin-right: 0;
+    margin-left: 1.4vw;
+}
+
+.list-w {
+    width: 23.8vw;
+}
+
+.list-margin {
+    margin: 0;
+}
+
+.list-div-margin {
+    margin-bottom: 20px;
+}
+
+.list-font-weight {
+    font-weight: 300;
+}
+
+.right-margin {
+    margin-top: 12px;
+}  
+
+#left-margin {
+    margin-left: 3px;
+}
+
+.footer-title {
+    margin-bottom: 0;
+}
+
+.footer-img {
+    width: 30px;
+    margin-left: 2px;
+}
+
+.project-img {
+    width: 500px;
+    border-radius: 50px;
+    margin: 10px;
+    border: 1px solid rgb(98, 98, 98);
+    transition: transform .2s;
+}
+
+.project-img:hover {
+    transform: scale(1.5);
+}
+
+.project-img-margin {
+    margin-left: 4vw;
+}
+
+.text-div-margin {
+    margin-left: 20px;
+}
+
+.contact-p {
+    margin-top: 0px;
+}
+
+.contact-e-title {
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.form-grid > div > input {
+    font-size: 16px;
+    height: 30px;
+    border: 1px solid rgb(62, 61, 61);
+    border-radius: 5px;
+    font-weight: 300;
+    background-color: #f3f2ef;
+    width: 210px;
+}
+
+.form-grid > div {
+    font-weight: 300;
+}
+
+.massage-grid > div > textarea {
+    font-size: 16px;
+    border: 1px solid rgb(62, 61, 61);
+    border-radius: 5px;
+    background-color: #f3f2ef;
+}
+
+.massage-grid > div > button {
+    border: 1px solid rgb(62, 61, 61);
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    background-color: #ecbe35;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.massage-grid > div {
+    font-weight: 300;
+}
+
+.form-margin {
+    margin-top: 6vh;
+}
+
+.mail-sent {
+    font-size: 40px;
+}
+
+.main-img {
+    border: 1px solid #000;
+    border-radius: 50%;
+    width: 450px;
+}
+
+.main-r {
+    margin-top: 25px;
+}
+
+.main-container > div > h1 {
+    font-size: 60px;
+}
+
+.main-r > p {
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.main-r > div > a > button {
+    border: 1px solid #000;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+#resume {
+    background-color: #badc58; 
+}
+
+#project {
+    background-color: #7ed6df;
+}
+
+#contact {
+    background-color: #ff7979;
+}
+
+#resume:hover {
+    background-color: #f3f2ef;
+}
+
+#project:hover {
+    background-color: #f3f2ef;
+}
+
+#contact:hover {
+    background-color: #f3f2ef;
+}
